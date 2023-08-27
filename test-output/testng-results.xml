@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T12:58:32 IST" name="Default suite" finished-at="2022-10-29T12:58:32 IST" duration-ms="108">
+    <groups>
+    </groups>
+    <test started-at="2022-10-29T12:58:32 IST" name="Default test" finished-at="2022-10-29T12:58:32 IST" duration-ms="108">
+      <class name="UI.copy.LoginTest">
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="dataSetup" finished-at="2022-10-29T12:58:32 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="LoginToApplication" finished-at="2022-10-29T12:58:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method is-config="true" signature="ConnecttoDB()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="ConnecttoDB" finished-at="2022-10-29T12:58:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConnecttoDB -->
+        <test-method signature="bloginTest()[pri:1, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="bloginTest" description="this is the login page" finished-at="2022-10-29T12:58:32 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bloginTest -->
+        <test-method is-config="true" signature="DisConnectFromDB()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="DisConnectFromDB" finished-at="2022-10-29T12:58:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisConnectFromDB -->
+        <test-method is-config="true" signature="ConnecttoDB()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="ConnecttoDB" finished-at="2022-10-29T12:58:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConnecttoDB -->
+        <test-method signature="alogoutTest()[pri:2, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="alogoutTest" description="this is the logout page" finished-at="2022-10-29T12:58:32 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alogoutTest -->
+        <test-method is-config="true" signature="DisConnectFromDB()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="DisConnectFromDB" finished-at="2022-10-29T12:58:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisConnectFromDB -->
+        <test-method is-config="true" signature="LogoutToApplication()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:32 IST" name="LogoutToApplication" finished-at="2022-10-29T12:58:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutToApplication -->
+        <test-method is-config="true" signature="dataTeardown()[pri:0, instance:UI.copy.LoginTest@223191a6]" started-at="2022-10-29T12:58:33 IST" name="dataTeardown" finished-at="2022-10-29T12:58:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTeardown -->
+      </class> <!-- UI.copy.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
